@@ -57,4 +57,5 @@ fs.writeFile("output.txt", swap(inputs), function(err) {
     return console.log(err);
   }
   console.log(swap(inputs));
+  console.log("Output available in output.txt");
 });
