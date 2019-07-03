@@ -13,3 +13,5 @@ node app.js
 ```
 
 3. Output will be available in **terminal** and **output.txt**
+
+[Github URL](https://github.com/jakzaizzat/royal-rumble-js)
